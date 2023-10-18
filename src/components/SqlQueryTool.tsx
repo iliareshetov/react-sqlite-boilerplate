@@ -1,4 +1,4 @@
-import { useCallback, useRef, useState } from "react";
+import { useCallback, useState } from "react";
 import { Database, QueryExecResult } from "sql.js";
 import ResultsTable from "./ResultsTable";
 import Acknowledgments from "./Acknowledgments";
